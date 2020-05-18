@@ -8,7 +8,7 @@
 # THANKS
 
     Thanks to all students who made it possible to get this trough.
-
+	Thanks to friends.
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
